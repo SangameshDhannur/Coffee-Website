@@ -6,7 +6,7 @@ Crafted with clean layouts, high-quality imagery, and smooth navigation, this pr
 ---
 
 ## 🚀 Live Demo
-Check out the website here: [Live Demo](https://your-username.github.io/coffee-website)
+Check out the website here: [Live Demo](https://sangameshdhannur.github.io/Coffee-Website/)
 
 ---
 
@@ -49,7 +49,7 @@ This project was created as part of my portfolio to demonstrate:
 ## 📬 Contact
 Made with ❤️ by **Sangamesh**  
 - 🌐 Portfolio: [your-portfolio-link](#)  
-- 📧 Email: your-email@example.com  
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
+- 📧 Email: sangameshdhannur974@gmail.com 
+- 🐙 GitHub: [github.com/your-username](https://github.com/SangameshDhannur)
 
 
